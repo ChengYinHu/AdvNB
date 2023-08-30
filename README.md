@@ -1,5 +1,5 @@
 # AdvNB
-Code and model for "Adversarial Neon Beam: A Light-based Physical Attack to DNNs" (ACM MM 2023)
+Code and model for "Computer Vision and Image Understanding"
 <p align='center'>
   <img src='dataset/p1.jpg' width='700'/>
 </p>
