@@ -17,3 +17,6 @@ In this work, we propose a light-based physical attack called adversarial neon b
 python digital_test.py --model resnet50 --dataset your_dataset
 ```
 
+## Data
+URL:https://pan.baidu.com/s/1aYX-zaDfLx0fgMhJtmN4ig  Password:88sv
+
